@@ -1,0 +1,7 @@
+{
+    "version": "2.1.0",
+    "repos": "https://github.com/ql2005/js-cookie",
+    "description": "A simple, lightweight JavaScript API for handling cookies",
+    "name": "js-cookie",
+    "main": "js.cookie.js"
+}
